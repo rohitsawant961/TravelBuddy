@@ -4,9 +4,7 @@
 
 A responsive travel website designed to help users explore destinations and book travel packages with a modern, user-friendly interface.
 
-###🌐 Live Demo
-🔗 Visit the site here:
-    https://rohitsawant961.github.io/TravelBuddy/
+🌐 Live Demo:https://rohitsawant961.github.io/TravelBuddy/
 
 ## 🌟 Features
 
