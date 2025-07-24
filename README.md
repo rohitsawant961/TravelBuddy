@@ -4,6 +4,10 @@
 
 A responsive travel website designed to help users explore destinations and book travel packages with a modern, user-friendly interface.
 
+🌐 Live Demo
+🔗 Visit the site here:
+TravelBuddy – Explore Travel Packages
+
 ## 🌟 Features
 
 ### 🎨 User Interface & Design
