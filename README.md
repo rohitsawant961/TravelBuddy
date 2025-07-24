@@ -26,12 +26,12 @@ A responsive travel website designed to help users explore destinations and book
   - Modern gradient backgrounds and effects
 
 ## 📁 File Structure
-
+```
 travelsProject/
 ├── index.html          # Main HTML structure
 ├── style.css           # Complete styling and responsive design
 └── README.md           # Project documentation
-
+```
 ## 🚀 Getting Started
 
 ### Installation
