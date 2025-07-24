@@ -9,19 +9,16 @@ A responsive travel website designed to help users explore destinations and book
 ### 🎨 User Interface & Design
 - **Modern Dark Theme** with vibrant orange accents
 - **Interactive Hover Effects** and smooth animations
-- **Glassmorphism Design** for package cards
 - **Responsive Layout** with CSS Grid and Flexbox
 
 ### 📱 Technical Features
-- **Mobile-First Responsive Design** for all devices
 - **Optimized Performance** with efficient CSS
 - **Cross-Browser Compatibility** 
-- **SEO-Friendly HTML5** structure
 
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup structure
-- **CSS3**: 
+- **CSS**: 
   - CSS Grid and Flexbox for layouts
   - CSS Custom Properties (CSS Variables)
   - Advanced animations and transitions
